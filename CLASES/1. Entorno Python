@@ -11,10 +11,13 @@ Herramientas mediante las cuales crearemos nuestro primer repositorio, al que ll
 
 El repositorio CLASES contendrá el contenido de las clases impartidas durante todo el curso, estará compuesto por archivos de texto y practicas de código.
 
-CONFIGURAR gitHub en Visual studio code
+######## CONFIGURAR gitHub en Visual studio code ########
+ * Configirar usuario y contraseña en el terminal de la siguiente manera:
+   git config --global user.name "pepito"
+   git config --global user.email "pepito@unal.edi.co"
+   Además podemos verificar que git esté instalado con: git --version
  * Seleccionar la pestaña de git (los 3 nodos)
  * Inicializar repositorio (working directory), click al boton initialize_repository
  * Llevar el repositorio al Stage area : seleccionar +.
  * Llevar el repositorio al commit area: escribimos mensaje y damos click en el boton commit
  * Finalmente subir el repositorio a la nube.
- 
