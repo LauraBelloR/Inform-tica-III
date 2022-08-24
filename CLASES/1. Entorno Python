@@ -10,3 +10,11 @@ Se configura el entorno de desarrollo para python con las siguiientes herramient
 Herramientas mediante las cuales crearemos nuestro primer repositorio, al que llamaremos Clases
 
 El repositorio CLASES contendrá el contenido de las clases impartidas durante todo el curso, estará compuesto por archivos de texto y practicas de código.
+
+CONFIGURAR gitHub en Visual studio code
+ * Seleccionar la pestaña de git (los 3 nodos)
+ * Inicializar repositorio (working directory), click al boton initialize_repository
+ * Llevar el repositorio al Stage area : seleccionar +.
+ * Llevar el repositorio al commit area: escribimos mensaje y damos click en el boton commit
+ * Finalmente subir el repositorio a la nube.
+ 
