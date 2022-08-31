@@ -1,0 +1,14 @@
+Agosto 26/2022
+
+Tipos de datos en python
+
+* BOOLEANOS: True (o cualquier numero), False (o 0)
+* STRINGS: " ", '',"casa", "123".
+* ENTEROS: cualquier número que no tenga parte decimal. -1000, 1000, 0.
+* FLOTANTES: 12.2, 12.45, 5.0, 100. .
+
+
+* LISTAS: [], [1,2,3], ["", " ", ""], ["A", "B", "C"], [1, "A", 2, "B", 3, "C"] --> Mutables
+* TUPLAS: (), (1,2,3), ("", " ", ""), ("A", "B", "C"), (1, "A", 2, "B", 3, "C") --> Inmutables
+* CONJUNTOS: {"A", "B", "C"}  --> No permite que se repitan
+* DICCIONARIOS: {"Cristian": 5, "Daniela": 0, "Sebastian": 3}
