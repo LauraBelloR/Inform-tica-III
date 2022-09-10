@@ -1,0 +1,17 @@
+07 - 09 - 2022
+
+------- Ciclo While -------
+
+Evalúa una condición, y en caso de ser verdadera ejecuta las sentencias contenidas en el Ciclo
+
+Durante el ciclo la condición podría cambiar a falso, lo que ocacionaría que el ciclo termine en la siguiente ejecución.
+
+
+------- Notación --------
+
+while <condición>:
+    <sentencia>
+    <sentencia>
+    <sentencia>
+    ....
+

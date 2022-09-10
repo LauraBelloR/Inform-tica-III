@@ -1,0 +1,29 @@
+09-09-2022
+
+------ Ciclo For -------
+
+En algunas ocasiones, si sabemos lo que vamos a recorrer,
+
+------ Notación ------
+
+for <variable> in <iterable>:
+    <Sentencia1>
+    <Sentencia2>
+
+
+<variable> : Es cualquier nombre que el programador decide usar programador
+<iterable> : Es cualquier elemento de Python que se puede recorrer
+
+
+
+------------
+Ejemplo:
+
+Recorrer los siguientes iterables utilizando el ciclo for:
+    - alturas = [10, 20, 50, 80, 1, 50]
+    - pesos = (70, 60, 55, 62, 45, 90)
+    - mensaje = "Hola Mungo Cruel"
+    - secuencia = range(1, 11, 1)
+
+for altura in alturas:
+    print(altura)
