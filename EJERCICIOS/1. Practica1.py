@@ -9,3 +9,4 @@ print((1,2,3))
 
 print("variable =", 12,"Este número es importante.", sep="\n")   # sep="\n"  --> hace que las variabes se separen con un salto de línea
 
+print(dir([1,2,3]))
